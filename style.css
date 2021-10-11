@@ -7,11 +7,11 @@ body {
   height: 500px;
   border: 2px dashed cornflowerblue;
   margin: 10px;
-  position: absolute;
+  position: relative;
 }
 .circle {
-  width: 100px;
-  height: 100px;
+  width: 150px;
+  height: 150px;
   position: absolute;
   justify-content: space-around;
 }
